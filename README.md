@@ -21,6 +21,16 @@ Crawl convertible bond information from Taiwan Stock Exchange (TWSE) Market Obse
     ├── convertible_bond_news_yearly_scraper.py
     └── convertible_bond_scraper.py
 
+## Outputs
+### Convertible Bond Information CSV File
+![Bond Info CSV](https://github.com/andy2167565/Convertible-Bond-Scraper/blob/78563052d4904f7f2f65ed98fbd7fb0dc023e7cf/img/bond_info_csv_output_example.JPG)
+### Convertible Bond News Text File
+![Bond Transfer News TXT](https://github.com/andy2167565/Convertible-Bond-Scraper/blob/78563052d4904f7f2f65ed98fbd7fb0dc023e7cf/img/transfer_news_text_output_example.JPG)
+![Bond Price News TXT](https://github.com/andy2167565/Convertible-Bond-Scraper/blob/78563052d4904f7f2f65ed98fbd7fb0dc023e7cf/img/price_news_text_output_example.JPG)
+### Convertible Bond News CSV File
+![Bond Transfer News CSV](https://github.com/andy2167565/Convertible-Bond-Scraper/blob/78563052d4904f7f2f65ed98fbd7fb0dc023e7cf/img/transfer_news_csv_output_example.JPG)
+![Bond Price News CSV](https://github.com/andy2167565/Convertible-Bond-Scraper/blob/78563052d4904f7f2f65ed98fbd7fb0dc023e7cf/img/price_news_csv_output_example.JPG)
+
 ## How to Execute
 ### Install packages
 ```
