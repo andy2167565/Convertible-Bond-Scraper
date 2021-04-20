@@ -2,6 +2,10 @@
 
 Crawl convertible bond information from Taiwan Stock Exchange (TWSE) Market Observation Post System
 
+## Source
+* [Taipei Exchange](https://www.tpex.org.tw/web/bond/publish/convertible_bond_search/memo.php?l=zh-tw)
+* [Taiwan Stock Exchange Market Observation Post System](https://mops.twse.com.tw/mops/web/t108sb08_1_q2)
+
 ## Directory Structure
     .
     ├── configFile                                     # Contains all the configuration files required in the scripts
